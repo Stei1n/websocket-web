@@ -1,0 +1,569 @@
+{
+  "test-chat": {
+    "id": "test-chat",
+    "name": "test-chat",
+    "updatedAt": 1765919640020,
+    "messages": [
+      {
+        "id": "msg-1",
+        "chatId": "test-chat",
+        "fromMe": true,
+        "text": "Hello DB",
+        "createdAt": 1765919640020
+      }
+    ]
+  },
+  "264016068874270@lid": {
+    "id": "264016068874270@lid",
+    "name": "Dilan 🐈",
+    "updatedAt": 1765983640674,
+    "messages": [
+      {
+        "id": "ACCDE939E2D6694F9E6DFB2C7452E814",
+        "chatId": "264016068874270@lid",
+        "fromMe": false,
+        "text": "Ping",
+        "createdAt": 1765919885000
+      },
+      {
+        "id": "ACA3AE5F5E236EDB246CAC748568EC2B",
+        "chatId": "264016068874270@lid",
+        "fromMe": false,
+        "text": "Ping",
+        "createdAt": 1765920055000
+      },
+      {
+        "id": "3EB0B1AFA433EDDDA8F63F",
+        "chatId": "264016068874270@lid",
+        "fromMe": true,
+        "text": "Pong 🏓",
+        "createdAt": 1765920054652
+      },
+      {
+        "id": "ACD0270BC2854CE736A6A402F7D9C14A",
+        "chatId": "264016068874270@lid",
+        "fromMe": false,
+        "text": "Perfecto",
+        "createdAt": 1765920197000
+      },
+      {
+        "id": "A5830BCD35B99CA9649C9340C33A39C6",
+        "chatId": "264016068874270@lid",
+        "fromMe": true,
+        "text": "Si",
+        "createdAt": 1765920222000
+      },
+      {
+        "id": "3EB08CDDE241D727D2D448",
+        "chatId": "264016068874270@lid",
+        "fromMe": true,
+        "text": "preparado",
+        "createdAt": 1765920363000
+      },
+      {
+        "id": "3EB033D95225F65CBC70D1",
+        "chatId": "264016068874270@lid",
+        "fromMe": true,
+        "text": "godeto",
+        "createdAt": 1765920368000
+      },
+      {
+        "id": "3EB0AC6A72C3B8C5A45077",
+        "chatId": "264016068874270@lid",
+        "fromMe": true,
+        "text": "a",
+        "createdAt": 1765920980000
+      },
+      {
+        "id": "3EB08C5472EA0A76B58989",
+        "chatId": "264016068874270@lid",
+        "fromMe": false,
+        "text": "prueba n1",
+        "createdAt": 1765982988000
+      },
+      {
+        "id": "3EB02829CDD96C941A1A08",
+        "chatId": "264016068874270@lid",
+        "fromMe": true,
+        "text": "dilacho",
+        "createdAt": 1765983017000
+      },
+      {
+        "id": "3EB038C430FDFEF9FB4A77",
+        "chatId": "264016068874270@lid",
+        "fromMe": true,
+        "text": "hola",
+        "createdAt": 1765983633000
+      },
+      {
+        "id": "3EB010B0BF4A68BB218627",
+        "chatId": "264016068874270@lid",
+        "fromMe": false,
+        "text": "hola",
+        "createdAt": 1765983642000
+      }
+    ]
+  },
+  "25769870913698@lid": {
+    "id": "25769870913698@lid",
+    "name": "Michelita",
+    "updatedAt": 1765920416770,
+    "messages": [
+      {
+        "id": "AC1D36992326BD79BD28AAF4995AF608",
+        "chatId": "25769870913698@lid",
+        "fromMe": false,
+        "text": "Ping",
+        "createdAt": 1765920394000
+      },
+      {
+        "id": "3EB0D70B422B9C33002E34",
+        "chatId": "25769870913698@lid",
+        "fromMe": true,
+        "text": "Pong 🏓",
+        "createdAt": 1765920393143
+      },
+      {
+        "id": "3EB03B9619A8D4370CDF14",
+        "chatId": "25769870913698@lid",
+        "fromMe": true,
+        "text": "oda mamor",
+        "createdAt": 1765920398000
+      },
+      {
+        "id": "AC3B7732360853BFCA0D5D399DC81BEF",
+        "chatId": "25769870913698@lid",
+        "fromMe": false,
+        "text": "Oda",
+        "createdAt": 1765920409000
+      },
+      {
+        "id": "AC408868275FB22C19FB21BA571BC7FC",
+        "chatId": "25769870913698@lid",
+        "fromMe": false,
+        "text": "Ping",
+        "createdAt": 1765920415000
+      },
+      {
+        "id": "3EB0C59D0B40BB1B31436D",
+        "chatId": "25769870913698@lid",
+        "fromMe": true,
+        "text": "Pong 🏓",
+        "createdAt": 1765920414056
+      },
+      {
+        "id": "ACC0A4D880907DA669E94D31837C3186",
+        "chatId": "25769870913698@lid",
+        "fromMe": false,
+        "text": "Jajaja",
+        "createdAt": 1765920418000
+      }
+    ]
+  },
+  "253334955012257@lid": {
+    "id": "253334955012257@lid",
+    "name": "valen",
+    "updatedAt": 1765920762081,
+    "messages": [
+      {
+        "id": "AC7057D7610C5A37C62212762ADCBD9F",
+        "chatId": "253334955012257@lid",
+        "fromMe": false,
+        "text": "Pin",
+        "createdAt": 1765920594000
+      },
+      {
+        "id": "AC4F034E6412D90156884D4DAB2979B8",
+        "chatId": "253334955012257@lid",
+        "fromMe": false,
+        "text": "Pig",
+        "createdAt": 1765920596000
+      },
+      {
+        "id": "ACF5DFB3D129D1DC62968F668F480E4A",
+        "chatId": "253334955012257@lid",
+        "fromMe": false,
+        "text": "Ping",
+        "createdAt": 1765920607000
+      },
+      {
+        "id": "3EB060C36599F5F3FC6BCE",
+        "chatId": "253334955012257@lid",
+        "fromMe": true,
+        "text": "Pong 🏓",
+        "createdAt": 1765920605903
+      },
+      {
+        "id": "3EB0B841AFB3F301B08D5F",
+        "chatId": "253334955012257@lid",
+        "fromMe": true,
+        "text": "se logro",
+        "createdAt": 1765920697000
+      },
+      {
+        "id": "3EB0D8F7D9356B96098597",
+        "chatId": "253334955012257@lid",
+        "fromMe": true,
+        "text": "le estoy escribiendo desde la web no desde el celular",
+        "createdAt": 1765920720000
+      },
+      {
+        "id": "ACF5D4C72F3CED6344F7FFAB28318831",
+        "chatId": "253334955012257@lid",
+        "fromMe": false,
+        "text": "Mm ya",
+        "createdAt": 1765920760000
+      },
+      {
+        "id": "AC951AD8F1CA4B01CB570E50F665E930",
+        "chatId": "253334955012257@lid",
+        "fromMe": false,
+        "text": "Media/Unknown",
+        "createdAt": 1765920763000
+      }
+    ]
+  },
+  "263548437586004@lid": {
+    "id": "263548437586004@lid",
+    "name": "Dilan",
+    "updatedAt": 1767212177668,
+    "messages": [
+      {
+        "id": "A54F184316B989843DD477E5B6A6E756",
+        "chatId": "263548437586004@lid",
+        "fromMe": true,
+        "text": "Hola, Quiero afiliarme o trasladarme a Salud Total Eps",
+        "createdAt": 1766068131000
+      }
+    ]
+  },
+  "116505668800642@lid": {
+    "id": "116505668800642@lid",
+    "name": "Dilan",
+    "updatedAt": 1767212177672,
+    "messages": [
+      {
+        "id": "A535CC71E5D4ACE04E065EF4F8BF0A8A",
+        "chatId": "116505668800642@lid",
+        "fromMe": true,
+        "text": "Hola, he visto tu perfil, DIOSA DEL..., en Mile y quiero quedar contigo.",
+        "createdAt": 1766179017000
+      },
+      {
+        "id": "A5F447D99CEC02B594633DF1E3733DDC",
+        "chatId": "116505668800642@lid",
+        "fromMe": true,
+        "text": "Media/Unknown",
+        "createdAt": 1766179019000
+      },
+      {
+        "id": "A556D7B5C8C2629DA4ED9C3F208278CD",
+        "chatId": "116505668800642@lid",
+        "fromMe": true,
+        "text": "Y donde estas ubicada",
+        "createdAt": 1766179514000
+      }
+    ]
+  },
+  "246991388962879@lid": {
+    "id": "246991388962879@lid",
+    "name": "Dilan",
+    "updatedAt": 1767212177671,
+    "messages": [
+      {
+        "id": "A51F86B7470FB02425CADAFA3B888835",
+        "chatId": "246991388962879@lid",
+        "fromMe": true,
+        "text": "Hola, he visto tu perfil, Flaquita deliciosa,morenita..., en Mile y quiero quedar contigo.",
+        "createdAt": 1766179056000
+      }
+    ]
+  },
+  "242820438868176@lid": {
+    "id": "242820438868176@lid",
+    "name": "Dilan",
+    "updatedAt": 1767212177686,
+    "messages": [
+      {
+        "id": "A5E7091631FFE5AA3510AEE693FCBEE3",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "Quiero comprar con un asesor",
+        "createdAt": 1766520320000
+      },
+      {
+        "id": "5766AB5ACCD68D763A",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Selecciona el producto o servicio en el cual estás interesado:\n\n1. 💻 ¡Comprar celulares y mucho más!\nTecnología, consolas, smartwatch y accesorios.\n\n2. 🏡 2. ¡Fibra óptica de 900 megas!\nConectividad para tu hogar; internet, televisión y telefonía\n\n3. 📱Plan para tu celular\nPlan Móvil con 20% dcto x5 meses: pagas $35.920",
+        "createdAt": 1766520323000
+      },
+      {
+        "id": "A5F22C5A8145F6ACF197948565F6FE65",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "1",
+        "createdAt": 1766520352000
+      },
+      {
+        "id": "4C5B7C70A66CBAF6EE",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "En un momento un asesor te ayudará en tu proceso de compra 🛍️\n_Para brindarte una mejor experiencia te solicitarán algunos datos en la conversación, de no realizarse la venta esta información no será almacenada_",
+        "createdAt": 1766520354000
+      },
+      {
+        "id": "0E89288D6B294F5C2C",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "🎅✨¡Con Claro lo puedes todo! Te estas comunicado con la línea de ventas ✨ ¡Llegó diciembre con toda la magia, las luces y los descuentos que brillan! 🎁💫\nEn CLARO tenemos ofertas que harán de esta Navidad un momento inolvidable. 👇\n\n🎁 Haz que este mes esté lleno de regalos, conexión y grandes sorpresas, con promociones especiales solo para ti. 🎉\nHoy te ofrecemos *XIAOMI REDMI NOTE 14 PRO* 📲con un increíble precio que no te puedes perder¡¡\n\nTe habla Brandon Ballen experto en productos de tecnología Claro. ¿Con quién tengo el gusto de hablar y desde qué ciudad nos escribes?",
+        "createdAt": 1766520367000
+      },
+      {
+        "id": "A551A3B5E26CCBADC0169F24CE61F4D6",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "Hola buenas tardes",
+        "createdAt": 1766520385000
+      },
+      {
+        "id": "A523D29754A82BC6D4B432FC8CFBDFEF",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "Mira quería.preguntar el iPhone 15 pro",
+        "createdAt": 1766520397000
+      },
+      {
+        "id": "562D007A8C8D2F9504",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Los equipos de la marca iPhone NO se encuentran disponibles para financiación",
+        "createdAt": 1766520474000
+      },
+      {
+        "id": "18D02A1D87C653A623",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Te puedo ofrecer algunas marcas para financiar: Samsung, Motorola, Vivo, Oppo, Honor,  Xiaomi, Tecno, Zte, Huawei ¿Que marca te gustaría validar?",
+        "createdAt": 1766520475000
+      },
+      {
+        "id": "A5197F1AC3AEB21D016D8C6538315C43",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "Ni con plan? Tenemos uno hace como 6 años",
+        "createdAt": 1766520502000
+      },
+      {
+        "id": "A529FDD6D69D1FF39EB0B4DAAEFFEE8D",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "Y hace poco averiguamos el cupo y es más de 4 millones",
+        "createdAt": 1766520515000
+      },
+      {
+        "id": "6AE0D7BA0B87E38071",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Si señor/a comprendo pero actualmente la línea IPhone no aplica para financiación",
+        "createdAt": 1766520769000
+      },
+      {
+        "id": "A5D9E8909A4F95C1BF52D00D60FC87A4",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "Ah vale gracias",
+        "createdAt": 1766520933000
+      },
+      {
+        "id": "9FC7380DB7502876C9",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Gustas validar alguna de las marcas que te comente?",
+        "createdAt": 1766521074000
+      },
+      {
+        "id": "A52814758D9E4DD58A75CBD89C773668",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "Y línea Samsung",
+        "createdAt": 1766521076000
+      },
+      {
+        "id": "A5A351012EA4C100B2C03A6DDAABC484",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "El s25 y s25fe",
+        "createdAt": 1766521104000
+      },
+      {
+        "id": "3D1F577CE9720FB16B",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Si señor tenemos disponibilidad del S25FE",
+        "createdAt": 1766521155000
+      },
+      {
+        "id": "D114D64E2CBD9DAFE2",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Gustas validarlo?",
+        "createdAt": 1766521159000
+      },
+      {
+        "id": "A5B20F7AB32F19C21D8242F88A2A9734",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "Si porfavor",
+        "createdAt": 1766521166000
+      },
+      {
+        "id": "66090DDD78ACE659A3",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Con gusto",
+        "createdAt": 1766521221000
+      },
+      {
+        "id": "9E9A0371CBB9269ECF",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Lo puedes llevar de 6,12,18 o 24 cuotas  ¿en cuantas cuotas deseas validar?",
+        "createdAt": 1766521222000
+      },
+      {
+        "id": "A5F60DD9850F5FC584EDEE7271C9605F",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "12",
+        "createdAt": 1766521245000
+      },
+      {
+        "id": "D059AAB42C2BFD9C34",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Por supuesto, por favor bríndame tu C.C y nombre completo",
+        "createdAt": 1766521379000
+      },
+      {
+        "id": "A5D8C9DB1692E052EDC48B60536B5A54",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "24219024\nSandra Janeth Lara Rivera",
+        "createdAt": 1766521532000
+      },
+      {
+        "id": "A2311167F7003CEC6A",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Sr(a) con el fin de continuar con la propuesta comercial de los servicios de (Terminales y tecnología) informado, hoy 23/12/2025, autoriza a CLARO, para consultar sus datos personales ante cualquier entidad de información con el fin de validar su comportamiento y crédito comercial, hábito de pago y en general el cumplimiento de sus obligaciones comerciales y pecuniarias, así como el tratamiento de sus datos personales, según lo dispuesto en la ley 1266 de 2008 y Ley 1581 de 2012. ¿Acepta Ud.? Si o no",
+        "createdAt": 1766521594000
+      },
+      {
+        "id": "D298E2922ABDE3FA9D",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Sigues en línea?",
+        "createdAt": 1766521829000
+      },
+      {
+        "id": "A54014AC0A89732734FFEA468ABE1C8C",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "Si acepto",
+        "createdAt": 1766521858000
+      },
+      {
+        "id": "A5C9FB2819741562C8A6B7175F368927",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "Pero solo es para averiguar",
+        "createdAt": 1766521863000
+      },
+      {
+        "id": "369BA714E59BBDA615",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Pago final con IVA incluido: $3.332.950 \nPago inicial: $0\n12 Cuotas: $319.539",
+        "createdAt": 1766522042000
+      },
+      {
+        "id": "519F7648EECAA7A7F0",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Te gustaría adquirirlo a las 12 cuotas o gustas validarlo en otras?",
+        "createdAt": 1766522054000
+      },
+      {
+        "id": "A5C3D4C48683D55621C0F9863337C5FF",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "Quisiera esperar ahi",
+        "createdAt": 1766522240000
+      },
+      {
+        "id": "A51F3D389DD649CF975AED7EE19BD55D",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "Yo puedo reclamarlo en una sucursal de aquí o llega es a domicilio?",
+        "createdAt": 1766522256000
+      },
+      {
+        "id": "7F4113F3A53E3D4C45",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "Llega a domicilio a la dirección indicada por ti",
+        "createdAt": 1766522293000
+      },
+      {
+        "id": "A590534491E9870567FB45F74F46B61C",
+        "chatId": "242820438868176@lid",
+        "fromMe": true,
+        "text": "Ahh vale voy a preguntar en el claro que queda cerca a mi casa",
+        "createdAt": 1766522368000
+      },
+      {
+        "id": "8C3774D59DFB3873DC",
+        "chatId": "242820438868176@lid",
+        "fromMe": false,
+        "text": "¡Hola! Ha pasado 10 minutos y nuestro chat con agente finalizó 😃 *¡Fue un gusto ayudarte!*\r\nUna vez vuelvas a escribir, iniciaremos una nueva conversación, navega por las opciones de nuestro menú, y selecciona el paso con un asesor.  \r\n*¡Te espero de regreso!*",
+        "createdAt": 1766523047000
+      }
+    ]
+  },
+  "28931101081641@lid": {
+    "id": "28931101081641@lid",
+    "name": "Dilan",
+    "updatedAt": 1767212177688,
+    "messages": [
+      {
+        "id": "A5FDEB8271DB5B55CB88A24A5D3FB189",
+        "chatId": "28931101081641@lid",
+        "fromMe": true,
+        "text": "Buenas noches",
+        "createdAt": 1766539693000
+      },
+      {
+        "id": "EF89E7723430DA1666",
+        "chatId": "28931101081641@lid",
+        "fromMe": false,
+        "text": "Media/Unknown",
+        "createdAt": 1766539699000
+      },
+      {
+        "id": "D1A0C87C1B9FC3374F",
+        "chatId": "28931101081641@lid",
+        "fromMe": false,
+        "text": "Al continuar nuestra conversación Autorizas el Tratamiento de datos: https://s.kbe.ai/s/MDDQ7V",
+        "createdAt": 1766539701000
+      },
+      {
+        "id": "A6B15606695A01F04B",
+        "chatId": "28931101081641@lid",
+        "fromMe": false,
+        "text": "¡Hola! 💙 ¡Qué nota que estés con nosotros🥳, Soy Meli la asistente de Micelu.co 📱y estoy aquí con toda para lo que me necesites!",
+        "createdAt": 1766539701000
+      }
+    ]
+  }
+}

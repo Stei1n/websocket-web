@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhatsApp Connection Service</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="brand">
+                <h2>WA Service</h2>
+            </div>
+
+            <div class="status-card">
+                <span class="status-label">Estado</span>
+                <div id="connection-status" class="status-indicator disconnected">
+                    <span class="dot"></span>
+                    <span class="text">Desconectado</span>
+                </div>
+            </div>
+
+            <nav class="controls">
+                <button id="btn-dashboard" class="btn btn-nav active">Inicio</button>
+                <button id="btn-chats" class="btn btn-nav">Historial Chat</button>
+                <hr style="margin: 0.5rem 0; border: 0; border-top: 1px solid #e5e7eb;">
+                <button id="btn-disconnect" class="btn btn-outline">Desconectar</button>
+                <button id="btn-restart" class="btn btn-outline">Reiniciar Servicio</button>
+                <button id="btn-clear" class="btn btn-danger">Borrar Sesión</button>
+            </nav>
+
+            <div class="footer">
+                <p>v1.0.0</p>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div id="view-dashboard" class="view-section">
+                <header>
+                    <h1>Panel de Control</h1>
+                    <p>Gestiona tu conexión de WhatsApp</p>
+                </header>
+
+                <div class="content-grid">
+                    <!-- QR Section -->
+                    <div class="card qr-card">
+                        <h3>Código QR</h3>
+                        <div id="qr-container" class="qr-placeholder">
+                            <p>Esperando QR...</p>
+                            <img id="qr-image" src="" alt="QR Code" style="display: none;">
+                        </div>
+                        <p class="hint">Escanea con WhatsApp para conectar</p>
+                    </div>
+
+                    <!-- Logs Section -->
+                    <div class="card logs-card">
+                        <h3>Registros de Actividad</h3>
+                        <div id="logs-container" class="logs-list">
+                            <!-- Logs will appear here -->
+                            <div class="log-entry">Esperando conexión...</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chat View -->
+            <div id="view-chats" class="view-section" style="display: none;">
+                <div class="chat-layout">
+                    <div class="chat-list-sidebar">
+                        <h3>Conversaciones</h3>
+                        <div id="chat-list" class="chat-list">
+                            <div class="chat-loading">Cargando chats...</div>
+                        </div>
+                    </div>
+                    <div class="chat-messages-area">
+                        <header id="chat-header" style="display: none;">
+                            <h3 id="current-chat-name">Selecciona un chat</h3>
+                        </header>
+                        <div id="messages-container" class="messages-container">
+                            <div class="empty-state">Selecciona una conversación para ver el historial</div>
+                        </div>
+                        <div id="chat-input-area" class="chat-input-area" style="display: none;">
+                            <input type="text" id="message-input" placeholder="Escribe un mensaje...">
+                            <button id="btn-send" class="btn btn-primary">Enviar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="app.js"></script>
+    <script src="chat.js"></script>
+</body>
+
+</html>
