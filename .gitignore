@@ -5,3 +5,6 @@ node_modules
 /src/generated/prisma
 auth_info_baileys
 dist
+*.db
+prisma/*.db
+prisma-client/*
